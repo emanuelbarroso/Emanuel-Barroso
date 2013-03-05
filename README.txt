@@ -4,7 +4,7 @@ git clone https://github.com/emanuelbarroso/Emanuel-Barroso
 
 
 2) Comando para atualizar repositório no seu computador de acordo com a versão mais recente:
-(adicione aqui)
+git remote add origin git@github.com:emanuelbarroso/Emanuel-Barroso.git
 
 
 3) Comando para adicionar arquivo na lista de arquivos para commit:
@@ -16,7 +16,7 @@ git commit -m 'All files were commited'
 
 
 5) Comando para transferir arquivos que sofreram commit para o repositório na internet:
-git push
+git push -u origin master
 
 
 GIT NO WINDOWS
